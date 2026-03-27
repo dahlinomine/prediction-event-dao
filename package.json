@@ -1,0 +1,10 @@
+{
+  "name": "prediction-event-dao",
+  "version": "0.1.0",
+  "description": "DAO framework for managing and resolving community prediction markets",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
